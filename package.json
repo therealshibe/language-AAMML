@@ -1,18 +1,16 @@
 {
-  "name": "language-mml-nsdlib",
-  "version": "0.5.0",
-  "description": "Adds colors to various MML commands in NES Sound Driver & Library (NSD.Lib).",
-  "homepage": "https://github.com/hallyvorc/language-mml-nsdlib",
+  "name": "language-mml-AA",
+  "version": "0.1.0",
+  "description": "Adds colors to various MML commands in Archeage MML.",
+  "homepage": "https://github.com/therealshibe/language-mml-AA/",
   "keywords": [
     "mml",
-    "nes",
-    "famicom",
-    "nsdlib"
+    "archeage"
   ],
   "activationCommands": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/hallyvorc/language-mml-nsdlib.git"
+    "url": "https://github.com/therealshibe/language-mml-AA.git"
   },
   "license": "MIT",
   "engines": {
