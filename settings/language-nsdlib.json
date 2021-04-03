@@ -1,4 +1,4 @@
-{".source.nsdlib":
+{".source.AAMML":
 {"editor":
 {"commentStart":"// ","foldEndPattern":"^\\s*\\}|^\\s*\\]|^\\s*\\)",
  "increaseIndentPattern":"(?x) \\{ [^}\"']* $ | \\[ [^\\]\"']* $ | \\( [^)\"']* $",
