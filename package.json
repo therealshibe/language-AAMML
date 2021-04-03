@@ -1,8 +1,8 @@
 {
-  "name": "language-mml-AA",
+  "name": "language-AAMML",
   "version": "0.1.0",
   "description": "Adds colors to various MML commands in Archeage MML.",
-  "homepage": "https://github.com/therealshibe/language-mml-AA/",
+  "homepage": "https://github.com/therealshibe/language-AAMML/",
   "keywords": [
     "mml",
     "archeage"
@@ -10,7 +10,7 @@
   "activationCommands": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/therealshibe/language-mml-AA.git"
+    "url": "https://github.com/therealshibe/language-AAMML.git"
   },
   "license": "MIT",
   "engines": {
