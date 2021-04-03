@@ -1,6 +1,6 @@
-# NSD.Lib MML support in Atom
+#AA MML support in Atom
 
-The package adds colors to various MML commands for NES Sound Driver & Library (NSD.Lib).
+The package adds colors to various MML commands for ArcheAge.
 
-![Example1](https://raw.githubusercontent.com/hallyvorc/language-mml-nsdlib/master/screenshot.png)
+
 
